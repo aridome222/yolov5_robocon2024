@@ -1,0 +1,8 @@
+names:
+  - front
+  - back
+  - right
+  - left
+nc: 4
+train: ../dataset/train/images
+val: ../dataset/valid/images
